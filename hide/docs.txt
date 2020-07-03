@@ -1,0 +1,18 @@
+---
+# layout: page
+# title: Documentation
+# permalink: /docs/
+---
+# Problem Statement
+
+# Solution
+
+# Alternative Solution
+
+# Implementation
+
+# Strength and Challenges
+
+# Architecture Diagram
+
+# Artefacts
