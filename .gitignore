@@ -9,4 +9,4 @@ _site/
 vendor/
 
 # Ignore random thingies
-.hide/
+hide/*
