@@ -20,6 +20,8 @@ For static content hosting, we are using Amazon S3 and Amazon Cloudfront.
 - CloudFront<br>
   CloudFront's purpose was to serve the static website. We used CloudFront as its advantages are to accelerate static website content delivery and it is inexpensive.
 
+Read the guide [here](/steps/static_content_hosting)
+  
 ## Backend Architecture
 
 We are using Elastic Beanstalk to provision the backend architecture.
@@ -28,7 +30,10 @@ Our company is a small company that only needs a backend system to sell masks, i
 Elastic Beanstalk helps us provision several services and security configuration that would usually take quite a while to set up such as:
 EC2 instance for the environment, Amazon S3, Amazon RDS, ELB, EBS, EC2 Auto Scaling, Elastic IP, and Security Groups
 
+Read the guide [here](/steps/elastic_beanstalk)
+
 ## Deployment
 
 AWS CodePipeline is a fully managed continuous delivery service that helps us deploy our application directly from github to elastic beanstalk.
 
+Read the guide [here](/steps/code_pipeline)
