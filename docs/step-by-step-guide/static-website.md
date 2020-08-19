@@ -51,6 +51,8 @@ parent: Step by Step Guide
    
    ![Result](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a040c8f7-ac86-472f-837b-6ff3957e12f8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200819%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200819T060438Z&X-Amz-Expires=86400&X-Amz-Signature=3bb145bfdc5653afb17ce90aa6dbefe16a99d60025420d6c46cdce86e34e9006&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
+---
+
 ## Step 2: Serve static website hosted on S3 with Cloudfront
 
 1. Navigate to Amazon Cloudfront
