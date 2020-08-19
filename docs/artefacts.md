@@ -7,5 +7,5 @@ permalink: /artefacts/
 
 # Artefacts
 
-View the result on [YouTube](https://youtu.be/Pzpuu87DBRg)
+View the demo on [YouTube](https://youtu.be/Pzpuu87DBRg)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pzpuu87DBRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
