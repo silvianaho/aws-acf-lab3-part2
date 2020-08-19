@@ -18,5 +18,3 @@ We are Team 4 from **EL/EP0404/FT/01**
 3. Lim Pei Xian SOC-DIT/FT/2A/03 (1936195)
 
 This is our documentation for our PBIL LAB3 Group Project.
-
-Visit our [Notion Page](https://www.notion.so/Info-Page-6e4179cf6c564030956336a40a41571a) to see our workflow!
