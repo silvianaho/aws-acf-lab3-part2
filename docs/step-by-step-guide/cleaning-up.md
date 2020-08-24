@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cleaning Up
-nav_order: 3
+nav_order: 4
 permalink: /cleaning_up/
 parent: Step by Step Guide
 ---
